@@ -33,19 +33,32 @@
     margin: 10px;
 }
 
-form .display{
+ /* .display{
     display: flex;
-    flex-wrap: wrap;
     justify-content: flex-end;
     margin: 20px 0;
     width: 90%;
     height: 1vh;
      border: 1px solid red;
-}
 
- form .display input{
+} 
+
+.display input{
     text-align: right;
     flex: 1;
     font-size: 45px;
     box-shadow: none; 
+}*/
+
+.dispaly{
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+input[type="text"]{
+   height: 75px;
+   width: 100%;
+   border: none;
+   font-size: 25px;
+   text-align: right;
 }
