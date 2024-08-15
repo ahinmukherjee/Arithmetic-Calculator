@@ -98,7 +98,7 @@ input[type="text"]{
 
     
 }
-@media (max-width: 4200px) {
+@media (max-width: 420px) {
 
     .container{
         width: 100%;
