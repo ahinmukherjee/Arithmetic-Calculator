@@ -122,5 +122,13 @@ input[type="text"]{
     }
     
 } 
+ @media (min-width: 820px) {
+
+    .calculator form input{
+       width: 70px;
+        height: 65px;
+    }
+    
+} 
 
 
