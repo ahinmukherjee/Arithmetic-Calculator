@@ -1,1 +1,1 @@
-Arithmetic calculator 
+Arithmetic Calculator 
